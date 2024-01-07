@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geekluffy&label=Profile%20views&color=0e75b6&style=flat" alt="geekluffy" /> </p>
 
-<img align="right" height="180" src="https://c.tenor.com/MX7na3cgJYwAAAAC/tenor.gif"  />
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **Auto Rename & Encoder**
 
