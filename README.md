@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
  <a href="https://t.me/GeekLuffy" target="_blank">
-  <img src="https://te.legra.ph/file/0d1c35ef9d6f1a0a50b94.jpg" width="52" height="40" alt="telegram logo"  />
+  <img src="https://te.legra.ph/file/0d1c35ef9d6f1a0a50b94.jpg" width="150" height="40" alt="telegram logo"  />
  </a>
 </div>
 <p align="left">
