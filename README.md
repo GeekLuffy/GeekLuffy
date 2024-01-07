@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://wallpapercave.com/wp/wp8320511.jpg" alt="MasterHead" width="1000" height="400">
+</p>
+
 <h1 align="center">Hello there 👋, I'm Owais a.k.a. GeekLuffy</h1>
 <h3 align="center">Crafting unexpected elegance in code. Passionate about turning challenges into cool creations. 💻✨  #Kaizoku</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=geekluffy&label=Profile%20views&color=0e75b6&style=flat" alt="geekluffy" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geekluffy&label=Profile%20views&color=ff69b4&style=flat-square" alt="geekluffy" style="width: 170px; height: 35px;"/>
+</p>
+
+
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/MX7na3cgJYwAAAAC/tenor.gif">
 
