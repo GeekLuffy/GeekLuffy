@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/233853412ffc1d605f1f2.jpg" alt="MasterHead" width="900" height="400">
+  <img src="https://te.legra.ph/file/233853412ffc1d605f1f2.jpg" alt="MasterHead" width="900" height="350">
 </p>
 
 <h1 align="center">Hello there 👋, I'm Owais a.k.a. GeekLuffy</h1>
