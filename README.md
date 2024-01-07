@@ -49,3 +49,4 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/Geekluffy/Geekluffy/output/snake.svg" alt="Snake animation" />
+
