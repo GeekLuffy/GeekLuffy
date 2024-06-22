@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Beyond your Expectations**
 
-- 🌱 I’m currently learning **Javascript, Web Development**
+- 🌱 I’m currently learning **3D Modelling**
 
 - 🤝 I’m looking to collaborate on **Telegram Bots**
 
