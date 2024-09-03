@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/MX7na3cgJYwAAAAC/tenor.gif">
 
-- 🔭 I’m currently working on **Beyond your Expectations**
+- 🔭 I’m currently working on **Open Source Projects**
 
 - 🌱 I’m currently learning **3D Modelling**
 
