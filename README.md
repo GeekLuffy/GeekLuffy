@@ -13,13 +13,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/MX7na3cgJYwAAAAC/tenor.gif">
 
-- 🔭 I’m currently working on **Open Source Projects**
+### 🚀 Coding Adventures
 
-- 🌱 I’m currently learning **3D Modelling**
+- 🔭 **Current Focus:** Building innovative **Open Source Projects**.
+- 
+- 🌱 **Learning:** Exploring the world of **3D Modelling** to push the boundaries of creativity.
+- 
+- 🤝 **Collaboration:** Open to working on **Telegram Bots** — let's build something awesome together!
 
-- 🤝 I’m looking to collaborate on **Telegram Bots**
-
--  You can check my site here Anime-Edge.live
+### 🌐 Explore My Creations
+Check out my anime streaming site:
+[**Anime-Edge.live**](https://anime-edge.live)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
