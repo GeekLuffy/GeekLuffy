@@ -55,7 +55,6 @@ Check out my anime streaming site:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pyrogram.svg" height="40" alt="pyrogram logo"  />
 </div>
 
 <h3></h3>
