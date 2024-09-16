@@ -21,7 +21,7 @@
 
 - 🤝 **Collaboration:** Open to working on **Telegram Bots** — let's build something awesome together!
 
-### 🌐 Explore My Creations
+### 🌐 Explore My Site
 Check out my anime streaming site:
 [**Anime-Edge.live**](https://anime-edge.live)
 
