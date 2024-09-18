@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/233853412ffc1d605f1f2.jpg" alt="MasterHead" width="800" height="350">
 </p>
 
-<h1 align="center">Hello there 👋, I'm Owais</h1>
+<h1 align="center">Hello there 👋, I'm Owais Naeem</h1>
 <h3 align="center">Crafting unexpected elegance in code. Passionate about turning challenges into cool creations. 💻✨  #Kaizoku</h3>
 
 <p align="center">
