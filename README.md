@@ -28,10 +28,10 @@ Check out my anime streaming site:
 <h3 align="left">Connect with me:</h3>
 <div align="left">
  <a href="https://t.me/GeekLuffy" target="_blank">
-  <img src="https://te.legra.ph/file/0d1c35ef9d6f1a0a50b94.jpg" width="150" height="40" alt="telegram logo"  />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="telegram" />
  </a>
  <a href="mailto:contact.geekluffy@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail" />
  </a>
 </div>
 
