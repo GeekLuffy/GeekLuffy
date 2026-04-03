@@ -22,7 +22,7 @@
 
 ### 🌐 Explore My Site
 Check out my anime streaming site:
-[**Anime-Edge.live**](https://anime-edge.live)
+[**AniEdge.online**](https://aniedge.online)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
