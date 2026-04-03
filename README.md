@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hello there 👋, I'm Owais Naeem</h1>
-<h3 align="center">Architecting scalable solutions for the Web, AI & ML. Passionate about open-source innovation and digital craftsmanship. 💻✨ #Kaizoku</h3>
+<h3 align="center">Architecting scalable solutions for the Web, AI & ML. Passionate about open-source innovation and digital craftsmanship. 💻✨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geekluffy&label=Profile%20views&color=ff69b4&style=flat-square" alt="geekluffy" style="width: 170px; height: 35px;"/>
