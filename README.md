@@ -1,6 +1,6 @@
-<a href="https://app.daily.dev/geekluffy"><img src="https://api.daily.dev/devcards/v2/7P46r1tPxoQKVtYqmhnwh.png?type=wide&r=amx" width="652" alt="GeekLuffy's Dev Card"/></a>
+
 <p align="center">
-  <img src="https://te.legra.ph/file/233853412ffc1d605f1f2.jpg" alt="MasterHead" width="800" height="350">
+  <a href="https://app.daily.dev/geekluffy"><img src="https://api.daily.dev/devcards/v2/7P46r1tPxoQKVtYqmhnwh.png?type=wide&r=amx" width="652" alt="GeekLuffy's Dev Card"/></a>
 </p>
 
 <h1 align="center">Hello there 👋, I'm Owais Naeem</h1>
