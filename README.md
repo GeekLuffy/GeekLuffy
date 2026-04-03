@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/geekluffy"><img src="https://api.daily.dev/devcards/v2/7P46r1tPxoQKVtYqmhnwh.png?type=wide&r=amx" width="652" alt="GeekLuffy's Dev Card"/></a>
 <p align="center">
   <img src="https://te.legra.ph/file/233853412ffc1d605f1f2.jpg" alt="MasterHead" width="800" height="350">
 </p>
@@ -8,8 +9,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=geekluffy&label=Profile%20views&color=ff69b4&style=flat-square" alt="geekluffy" style="width: 170px; height: 35px;"/>
 </p>
-
-<a href="https://app.daily.dev/geekluffy"><img src="https://api.daily.dev/devcards/v2/7P46r1tPxoQKVtYqmhnwh.png?type=wide&r=9un" width="652" alt="GeekLuffy's Dev Card"/></a>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/MX7na3cgJYwAAAAC/tenor.gif">
 
