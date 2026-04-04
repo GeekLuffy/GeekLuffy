@@ -20,10 +20,6 @@
 - 💡 **Passion:** Turning complex problems into elegant, open-source solutions. *Crafting the unexpected.*
 - 🤝 **Collaboration:** Open to working on **Full Stack Apps**, **DeFi Protocols**, or crazy **AI Experiments**.
 
-### 🌐 Explore My Site
-Check out my anime streaming site:
-[**AniEdge.online**](https://aniedge.online)
-
 <h3 align="left">Connect with me:</h3>
 <div align="left">
  <a href="https://t.me/GeekLuffy" target="_blank">
