@@ -63,6 +63,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" title="OpenCV"/>
   <img width="12" />
 
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" title="Jupyter Notebook"/>
+  <img width="12" />
+
+  <!-- Miniconda / Conda -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="miniconda" title="Miniconda"/>
+  <img width="12" />
+
   <!-- Frontend & Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" title="NextJS"/>
   <img width="12" />
