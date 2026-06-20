@@ -20,6 +20,12 @@
 - 💡 **Passion:** Turning complex problems into elegant, open-source solutions. *Crafting the unexpected.*
 - 🤝 **Collaboration:** Open to working on **Full Stack Apps**, **DeFi Protocols**, or crazy **AI Experiments**.
 
+### 🔥 Featured Projects
+<p align="left">
+<a href="https://github.com/GeekLuffy/PixEdge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeekLuffy&repo=PixEdge&theme=dracula" /></a>
+<a href="https://github.com/GeekLuffy/EDGE_RENAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GeekLuffy&repo=EDGE_RENAME&theme=dracula" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
  <a href="https://t.me/GeekLuffy" target="_blank">
