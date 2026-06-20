@@ -14,12 +14,11 @@
 
 ### 🚀 Coding Adventures
 
-- 🎓 **Current Focus:** Pursuing my B.Tech in **CSE (Data Science)** while building scalable **Edge Computing** solutions and open-source projects like [PixEdge](https://pixedge.vercel.app).
-- 🔌 **Hardware & IoT:** Bridging the physical and digital worlds through embedded systems programming with **ESP32, NodeMCU, and Arduino**, including custom sensor integration.
-- 🎨 **Creative AI:** Exploring AI-driven **image manipulation and restoration**, combining complex algorithms with stunning UI/UX for immersive modern web experiences.
-- 🌱 **Learning:** Deep diving into **Blockchain Architecture** (Solidity/Ethereum) and mastering core CS architectures like Cloud Computing and Computer Networks.
+- 🔭 **Current Focus:** Building scalable **Edge Computing** solutions and high-performance **Open-Source Projects** like [PixEdge](https://pixedge.vercel.app).
+- 🎨 **Creative Tech:** Designing stunning **UI/UX** with code to create immersive **Web3** & **Modern Web** experiences.
+- 🌱 **Learning:** Deep diving into **Blockchain Architecture** (Solidity/Ethereum) and advanced **AI Integration**.
 - 💡 **Passion:** Turning complex problems into elegant, open-source solutions. *Crafting the unexpected.*
-- 🤝 **Collaboration:** Open to working on **Full Stack Apps**, **AI integrations**, or crazy **Web3/DeFi Experiments**.
+- 🤝 **Collaboration:** Open to working on **Full Stack Apps**, **DeFi Protocols**, or crazy **AI Experiments**.
 
 ### 🔥 Featured Projects
 <p align="left">
