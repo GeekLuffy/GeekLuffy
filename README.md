@@ -22,8 +22,8 @@
 
 ### 🔥 Featured Projects
 <p align="left">
-<a href="https://github.com/GeekLuffy/PixEdge"><img src="https://github-stats-extended.vercel.app/api/pin?username=GeekLuffy&repo=geekluffy/pixedge&show_owner=true&description_lines_count=3&theme=dracula" /></a>
-<a href="https://github.com/GeekLuffy/EDGE_RENAME"><img src="https://github-stats-extended.vercel.app/api/pin?username=GeekLuffy&repo=geekluffy/EDGE_RENAME&show_owner=true&description_lines_count=3&theme=dracula" /></a>
+<a href="https://github.com/GeekLuffy/PixEdge"><img src="https://github-stats-extended.vercel.app/api/pin?username=GeekLuffy&repo=geekluffy/pixedge&show_owner=false&description_lines_count=3&theme=dracula" /></a>
+<a href="https://github.com/GeekLuffy/EDGE_RENAME"><img src="https://github-stats-extended.vercel.app/api/pin?username=GeekLuffy&repo=geekluffy/EDGE_RENAME&show_owner=false&description_lines_count=3&theme=dracula" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
